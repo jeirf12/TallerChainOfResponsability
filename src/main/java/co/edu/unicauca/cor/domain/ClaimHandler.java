@@ -1,9 +1,9 @@
 package co.edu.unicauca.cor.domain;
 
 /**
- * Manejador de reclamos
+ * Abstracción o API de reclamos 
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public abstract class ClaimHandler {
 

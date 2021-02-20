@@ -5,8 +5,9 @@ import co.edu.unicauca.cor.domain.Claim;
 import co.edu.unicauca.cor.domain.TypeEnum;
 
 /**
+ * Ejecutor Principal del programa
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz 
  */
 public class Main {
 

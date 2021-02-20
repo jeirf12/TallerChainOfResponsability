@@ -5,7 +5,7 @@ import java.time.LocalDate;
 /**
  * Reclamo del cliente por pedido insatisfecho
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Claim {
 

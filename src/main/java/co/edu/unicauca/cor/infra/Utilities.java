@@ -4,8 +4,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
+ * Servicios utilizados por todas las clases
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class Utilities {
 

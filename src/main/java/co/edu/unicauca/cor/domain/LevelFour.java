@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Nivel de atención 4 de reclamos
  *
- * @author Libardo Pantoja, Julio A. Hurtado
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class LevelFour extends ClaimHandler {
 

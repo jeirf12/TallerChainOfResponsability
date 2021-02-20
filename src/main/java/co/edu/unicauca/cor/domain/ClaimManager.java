@@ -1,8 +1,9 @@
 package co.edu.unicauca.cor.domain;
 
 /**
+ * Manejador de reclamos
  *
- * @author Libardo, Julio
+ * @author Jhonny Rosero, Jhonfer Ruiz
  */
 public class ClaimManager {
 
